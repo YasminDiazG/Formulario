@@ -1,2 +1,1 @@
-//Especifica los atributos del lenguaje en GitHub.
-*.cs
+*.cs    diff=csharp
